@@ -30,10 +30,12 @@ BOM is a little vague. You'll want to be building a number of taggers etc, and l
 
 | Item 	| Description 	| Source 	| Price (GBP) 	| Quantity 	| Total 	|
 |---	|---	|---	|---	|---	|---	|
-| **Hardware** 	|  	|  	|  	|  	|  	|
 | 32mm PVC Pipe 	| 36mm OD, 3m 	| [Toolstation](https://www.toolstation.com/solvent-weld-waste-pipe-3m/p65399) 	| 5.58 	| 1 	| 5.58 	|
+
 | Aluminium Extrusion 	| 2020, black 	| [eBay](https://www.ebay.co.uk/itm/204168074414?var=504748872985&hash=item2f895d94ae:g:gjQAAOSwmktfx7B2&amdata=enc%3AAQAIAAAA4KW9bc8WNkdQk4CRbOGc37rQGn1FxpVPqeUE%2Bogyyo5xv3g9tJjZIPAYS3aXIK7H6rEuewGVif0oaT%2BzvEM6cewRyD2oZ78MAOIjSy2H8VwrP%2Byz7xJBIsY%2B8PEZ8HKSEpdS%2BrDLqW0vo1yDa59JPFtM8C%2FrJ%2FeHavM5InIlOKfQn8PB%2F3HBParsAszN9bnkYHsRWGQxTJ8S46d%2F5l2AJqFj2AV0C8Kzr42%2Bxzss3Trm6bFZ8JnRMEG58vJJ2VzkrWLP9TfUnu1mM2R8IpXHBbcyttswo0cRzmy%2BEZF1D39u%7Ctkp%3ABFBMzKKbgLFi) 	| 3.95 	| 1 	| 3.95 	|
+
 | M3 x 8mm bolt 	| pk of 50 	| [Aliexpress](https://www.aliexpress.com/item/32810872544.html?spm=a2g0o.order_list.order_list_main.5.19951802auCtj1) 	| 0.78 	| 1 	| 0.78 	|
+
 | M4 x 8mm bolt 	| pk of 10 	| [Aliexpress](https://www.aliexpress.com/item/1005005070119421.html?spm=a2g0o.order_list.order_list_main.17.19951802auCtj1) 	| 1.90 	| 1 	| 1.90 	|
 | M3 T-Nut 	| pk of 30 	| [Aliexpress](https://www.aliexpress.com/item/1005001623335549.html?spm=a2g0o.productlist.main.3.de663ddcPjHEAg&algo_pvid=46ca9b42-2f56-4558-a015-ffbdf9e06d57&algo_exp_id=46ca9b42-2f56-4558-a015-ffbdf9e06d57-1&pdp_npi=3%40dis%21GBP%211.75%211.23%21%21%212.19%21%21%402145265416902044100774347d0796%2112000016885769278%21sea%21UK%21765854333&curPageLogUid=e8u72WJJj6cZ) 	| 1.93 	| 1 	| 1.93 	|
 | M4 Nut 	| pk of 50 	| [Aliexpress](https://www.aliexpress.com/item/4000226223259.html?spm=a2g0o.productlist.main.3.4ef41f71tQH8Dq&algo_pvid=8d08ec09-7557-4111-8432-2265dbe792c5&algo_exp_id=8d08ec09-7557-4111-8432-2265dbe792c5-1&pdp_npi=3%40dis%21GBP%210.76%210.67%21%21%210.95%21%21%402100bc5c16902047887628927d077f%2110000000892445870%21sea%21UK%21765854333&curPageLogUid=5DRXGHB10o6n) 	| 0.56 	| 1 	| 0.58 	|
