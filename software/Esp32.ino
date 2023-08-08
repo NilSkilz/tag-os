@@ -7,7 +7,7 @@
  |_| \_|___|_____|____/|_|\_\___|_____/____|
                                             
   
-  Skirmos Laser Tag system
+  TAG/OS Laser Tag system
 
   - to create Sound files use `xxd -i ak47_clipin.wav ak47_clipin.h`
 */
@@ -55,8 +55,8 @@ XT_Wav_Class Ak47_boltpull(ak47_boltpull_wav);
 // ******************
 // Wifi Settings
 // ******************
-const char* ssid = "PidgeonsNest";
-const char* password = "3b5794e3e9";
+const char* ssid = "YOUR_WIFI_SSID";
+const char* password = "YOUR_PASSWORD";
 
 
 // ******************

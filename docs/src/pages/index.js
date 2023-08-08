@@ -3,9 +3,50 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import Container from 'react-bootstrap/Container';
+import Row from 'react-bootstrap/Row';
+import Col from 'react-bootstrap/Col';
 
+import 'bootstrap/dist/css/bootstrap.min.css';
 import styles from './index.module.css';
+import '../css/custom.css'
+
+const Hero = () => {
+  return <Container>
+    <Row>
+      <Col xs={12} md={4}>
+        <h1 style={{ marginBottom: '0px', fontSize: '68px', fontWeight: '100', marginTop: '40px' }}>Laser Tag OS</h1>
+        <h2>Open Source laser tag system</h2>
+        <a href="https://github.com/NilSkilz/tag-os">https://github.com/NilSkilz/tag-os</a>
+        <div style={{ marginTop: '20px' }}>
+          <ul>
+            <li>
+              3D Printed design
+            </li>
+            <li>
+              Custom PCB
+            </li>
+            <li>
+              Based on ESP32
+            </li>
+            <li>
+              TFT screen for ammo/health
+            </li>
+            <li>
+              Rail mount system for custom sights/scopes
+            </li>
+          </ul>
+
+        </div>
+      </Col>
+      <Col xs={12} md={8}>
+        <div>
+          <img src="/tag-os/img/tagger.png" width="auto" />
+        </div>
+      </Col>
+    </Row>
+  </Container>
+}
 
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
@@ -32,10 +73,11 @@ export default function Home() {
     <Layout
       title={`TAG/OS`}
       description="Open Source Laser Tag">
-      <HomepageHeader />
+      <Hero />
+      {/* <HomepageHeader />
       <main>
         <HomepageFeatures />
-      </main>
+      </main> */}
     </Layout>
   );
 }
