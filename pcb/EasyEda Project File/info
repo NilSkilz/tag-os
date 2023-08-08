@@ -1,0 +1,226 @@
+{
+  "uuid": "ebc100d338a85c6c5c97fdf4928f9491",
+  "path": "Offline/LaserTag",
+  "name": "LaserTag",
+  "content": "",
+  "created_at": "2023-06-16 11:59:24",
+  "updated_at": "2023-08-07 14:52:35",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "56da283f16a91c9d4382135dbd14220b",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "2584c0115a06414ebe781b96e9933a72": 1,
+        "f18df8ac755548c88de30ed3b4e48469": 1,
+        "28cb757ced2a49329dfcaa57f7147b1c": 3,
+        "f3c1d943bf1c43ffae55ac8c780d44ed": 8,
+        "eb4b9aee9bd548aaa0d8f2be9fe0b10f": 2,
+        "decd6f6d3af642e7af4bce30b1197f3b": 1,
+        "21f8f80a3f7c3c2b00b33f71a31ff6ef": 1,
+        "58557ab5dac544259249b4981dd6020c": 1,
+        "c996990367134df4854174670f257897": 1,
+        "fc9302b7959d424f875bf956862e00c8": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "?",
+          3,
+          "RES-TH_BD2.7-L6.2-P10.20-D0.4",
+          "1R,6R8,220R",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2857428",
+            "BOM_Manufacturer": "VO(翔胜)",
+            "BOM_Manufacturer Part": "MO1/4W-220K±5%-ST52",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "02e9a7a961db4476b473a93445dcc24e",
+            "uuid": "28cb757ced2a49329dfcaa57f7147b1c"
+          }
+        ],
+        [
+          "XH-2P-2.54",
+          8,
+          "CONN-TH_2P-P2.50-XH2.54-2P",
+          "5V,AMP_PWR,IR_LED,L_SPK,MODE,RELOAD,R_SPK,TRIGGER",
+          {
+            "BOM_Manufacturer Part": "XH-2P-2.54",
+            "puuid": "b8fddb749d784eccb60a4acb65c94dfc",
+            "uuid": "f3c1d943bf1c43ffae55ac8c780d44ed",
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C9900003929",
+            "BOM_Manufacturer": "null",
+            "BOM_JLCPCB Part Class": "Extended Part"
+          }
+        ],
+        [
+          "1u",
+          1,
+          "CAP-D6.3×F2.5",
+          "C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f22f57806f1b484c9525ae585bd9e142",
+            "uuid": "decd6f6d3af642e7af4bce30b1197f3b"
+          }
+        ],
+        [
+          "X8821WV-08K-N0SN",
+          1,
+          "CONN-TH_8P-P2.50_X8821WV-08K-N0SN",
+          "CN1",
+          {
+            "BOM_Manufacturer Part": "X8821WV-08K-N0SN",
+            "puuid": "ed50921934bc49089ec3ed54c2e88444",
+            "uuid": "fc9302b7959d424f875bf956862e00c8",
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C388753",
+            "BOM_Manufacturer": "XKB Connectivity(中国星坤)",
+            "BOM_JLCPCB Part Class": "Extended Part"
+          }
+        ],
+        [
+          "Header-Male-2.54_1x3",
+          1,
+          "HDR-TH_3P-P2.54-V-M-1",
+          "H1",
+          {
+            "BOM_Manufacturer Part": "2.54-1*3P针",
+            "puuid": "7e70b923819e4f3bb9fdeaf4abdca9d3",
+            "uuid": "21f8f80a3f7c3c2b00b33f71a31ff6ef",
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C49257",
+            "BOM_Manufacturer": "BOOMELE(博穆精密)",
+            "BOM_JLCPCB Part Class": "Extended Part"
+          }
+        ],
+        [
+          "Header-Male-2.54_1x4",
+          1,
+          "HDR-TH_4P-P2.54-V-M",
+          "H2",
+          {
+            "BOM_Manufacturer Part": "B-2100S04P-A110",
+            "puuid": "89f5280378144b629de4998ef974b6b8",
+            "uuid": "58557ab5dac544259249b4981dd6020c",
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C124378",
+            "BOM_Manufacturer": "Ckmtw(灿科盟)",
+            "BOM_JLCPCB Part Class": "Extended Part"
+          }
+        ],
+        [
+          "Header-Male-2.54_1x2",
+          1,
+          "HDR-TH_2P-P2.54-V-M-1",
+          "H3",
+          {
+            "BOM_Manufacturer Part": "826629-2",
+            "puuid": "7ae61b24ec5d431087f34ea7cfebbd9e",
+            "uuid": "c996990367134df4854174670f257897",
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C86471",
+            "BOM_Manufacturer": "TE Connectivity(美国泰科)",
+            "BOM_JLCPCB Part Class": "Extended Part"
+          }
+        ],
+        [
+          "2N3906(TO-92)",
+          2,
+          "TO-92-3_L4.9-W3.7-P1.27-L",
+          "Q1,Q4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "CJ",
+            "BOM_Manufacturer Part": "2N3906",
+            "BOM_Supplier Part": "C9809",
+            "puuid": "6924b36489de4921bb29ca14bf27c33f",
+            "uuid": "eb4b9aee9bd548aaa0d8f2be9fe0b10f"
+          }
+        ],
+        [
+          "09JQ-ST",
+          1,
+          "CONN-TH_9P-P2.50_X8821WV-09K-N0SN",
+          "TFT",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C5118719",
+            "BOM_Manufacturer": "JST",
+            "BOM_Manufacturer Part": "09JQ-ST",
+            "puuid": "66d78253305e443884cb942e583d21dc",
+            "uuid": "f18df8ac755548c88de30ed3b4e48469"
+          }
+        ],
+        [
+          "D1-mini-ESP32",
+          1,
+          "D1-MINI-ESP32",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "15f53e73b2bb4fb9bcf47259f9c0e9a7",
+            "uuid": "2584c0115a06414ebe781b96e9933a72"
+          }
+        ]
+      ],
+      "updateTime": 1691264250,
+      "createTime": 1686913164,
+      "histories": [],
+      "created_at": "2023-06-16 11:59:24",
+      "updated_at": "2023-08-05 20:37:30"
+    },
+    {
+      "uuid": "298a5a519e03b28701cd86ac89e03eff",
+      "puuid": "ebc100d338a85c6c5c97fdf4928f9491",
+      "title": "PCB_LaserTag",
+      "filename": "PCB_LaserTag.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "02e9a7a961db4476b473a93445dcc24e": 3,
+        "66d78253305e443884cb942e583d21dc": 1,
+        "ed50921934bc49089ec3ed54c2e88444": 1,
+        "7e70b923819e4f3bb9fdeaf4abdca9d3": 1,
+        "89f5280378144b629de4998ef974b6b8": 1,
+        "7ae61b24ec5d431087f34ea7cfebbd9e": 1,
+        "b8fddb749d784eccb60a4acb65c94dfc": 8,
+        "f22f57806f1b484c9525ae585bd9e142": 1,
+        "6924b36489de4921bb29ca14bf27c33f": 2,
+        "15f53e73b2bb4fb9bcf47259f9c0e9a7": 1
+      },
+      "BOM": [],
+      "updateTime": 1691416355,
+      "createTime": 1687040776,
+      "histories": [],
+      "created_at": "2023-06-17 23:26:16",
+      "updated_at": "2023-08-07 14:52:35"
+    }
+  ],
+  "sort": [
+    "56da283f16a91c9d4382135dbd14220b",
+    "585653f820993b8881650f68030fdc01"
+  ],
+  "title": "LaserTag",
+  "foldername": "LaserTag",
+  "schfilename": "LaserTag.json",
+  "schfilemtime": 1691264250273
+}
