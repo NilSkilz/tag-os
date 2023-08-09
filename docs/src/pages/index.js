@@ -45,6 +45,23 @@ const Hero = () => {
         </div>
       </Col>
     </Row>
+    <Row>
+      <Col>
+        <div>
+          <img src="/tag-os/img/Gun_V4_2023-Aug-06_04-37-01PM-000_CustomizedView58838849675.png" width="auto" />
+        </div>
+      </Col>
+      <Col>
+        <div>
+          <img src="/tag-os/img/Gun_V4_2023-Aug-06_04-31-38PM-000_CustomizedView7020427754.png" width="auto" />
+        </div>
+      </Col>
+      <Col>
+        <div>
+          <img src="/tag-os/img/Gun_V4_2023-Aug-06_04-38-15PM-000_CustomizedView66498796618.png" width="auto" />
+        </div>
+      </Col>
+    </Row>
   </Container>
 }
 
