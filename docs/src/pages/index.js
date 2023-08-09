@@ -33,6 +33,9 @@ const Hero = () => {
               TFT screen for ammo/health
             </li>
             <li>
+              Onboard sound effects
+            </li>
+            <li>
               Rail mount system for custom sights/scopes
             </li>
           </ul>
